@@ -33,6 +33,7 @@ module.exports = React.createClass({
 **If you're using React 0.11, use react-hyperscript 1.x.x. For later versions, use react-hyperscript 2.x.x.**
 
 **Object.assign is used in this library and is *not* poly-filled.**
+#1
 
 #### `h(componentOrTag, properties, children)`
 
